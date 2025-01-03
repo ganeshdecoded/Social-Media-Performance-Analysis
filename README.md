@@ -7,10 +7,10 @@ Multi-format Support: Handle different post types (reels, carousels, static)
 AI-Powered Insights: GPT-generated recommendations and analysis
 Scalable Storage: Astra DB integration for efficient data management
 ## 🛠️ Tech Stack
-Workflow Automation: Langflow
-Database: DataStax Astra DB
-AI Model: GPT-4.0-mini
-Language: Python 3.8+
+Workflow Automation: Langflow/n
+Database: DataStax Astra DB/n
+AI Model: GPT-4.0-mini/n
+Language: Python 3.8+/n
 ## 📝 Configuration
 Create an Astra DB account
 Set up your database and collection
