@@ -11,3 +11,17 @@ Workflow Automation: Langflow
 Database: DataStax Astra DB
 AI Model: GPT-4.0-mini
 Language: Python 3.8+
+## 📝 Configuration
+Create an Astra DB account
+Set up your database and collection
+3. Configure environment variables:
+ASTRA_DB_TOKEN=your_token
+ASTRA_DB_API_ENDPOINT=your_endpoint
+## # Required packages
+python >= 3.8
+astrapy
+pandas
+uuid
+langflow
+## Complete Tutorial - https://www.youtube.com/watch?v=P4HWShPgY8A
+## Team - APK ALLIES
